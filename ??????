@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>おばけ</title>
+
+<style>
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+}
+
+.ghost {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+</style>
+
+</head>
+
+<body>
+
+<img class="ghost" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ghost_icon.svg/1024px-Ghost_icon.svg.png">
+
+</body>
+</html>
